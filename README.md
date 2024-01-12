@@ -13,7 +13,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![image](https://github.com/Mohak-Gogia/Blog-preview-card/assets/91110127/a18fdfc4-438c-419d-814e-0f637241438d)
+##### Desktop view
+
+![image](https://github.com/Mohak-Gogia/Product-preview-card-component/assets/91110127/993d7331-b013-4b8b-8262-a1f1593f7350)
+
+##### Mobile view
+
+![image](https://github.com/Mohak-Gogia/Product-preview-card-component/assets/91110127/bfd00c8f-2720-4682-b77d-44489a0e0454)
 
 ### Links
 
