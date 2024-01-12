@@ -5,13 +5,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [Built with](#built-with)
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
 ##### Desktop view
 
@@ -23,7 +23,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Live Demo](https://mohak-gogia.github.io/Blog-preview-card/)
+- Live Site URL: [Live Demo](https://mohak-gogia.github.io/Product-preview-card-component/)
 
 ### Used
 
